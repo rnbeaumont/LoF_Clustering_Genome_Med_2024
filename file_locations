@@ -1,0 +1,15 @@
+{
+	"EXON_POS": "/slade/home/rnb203/Datasets/ensembl/GRCh38/exon_positions",
+	"GENE_POS": "/slade/home/rnb203/Datasets/ensembl/GRCh38/gene_positions",
+	"ANNOTATIONS": "/slade/home/rnb203/Projects/Rare_Variant_Projects/Variant_Clustering/results/variants_annotated_chr*",
+	"FREQ_FILE": "/slade/projects/UKBB/annotations/vep_annotations_with_frequencies/ukb23149_c*_b0_v1_regen_flagged_excluded_with_freqs.txt",
+	"VARIANTS_FILE_PREFIX": "results/test_output_variant_relative_positions",
+	"FIGURES_PREFIX": "plots/test_output",
+	"GENCC": "/slade/home/rnb203/Datasets/gencc/gencc-submissions.tsv",
+	"MANE_TRANSCRIPTS": "/slade/home/rnb203/Datasets/MANE_transcripts/MANE.GRCh38.v0.95.summary.txt.gz",
+	"VEP_ANNOTATIONS": "/slade/projects/UKBB/exome_data/450k/vep_annotations/regeneron_flagged_vars_removed/ukb23149_c*_b0_v1_regen_flagged_excluded.tbl.gz",
+	"SNPS_ANNOTATED": "/slade/home/rnb203/Projects/Rare_Variant_Projects/Variant_Clustering/results/variants_annotated_chr",
+	"DEPTH_DIR": "/slade/home/rnb203/Projects/Rare_Variant_Projects/Variant_Clustering/results/depths/",
+	"CLINVAR_VCF": "/slade/home/rnb203/Datasets/Clinvar/clinvar_20221001.vcf.gz",
+	"CLINVAR_FORMATTED": "data/clinvar_pathogenic.txt"
+}
